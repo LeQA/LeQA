@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Le Quang Anh - a student of ITMO university
+
+🔭 I’m currently working on Web development, Machine learning,Web Application Security.
+🌱 I’m currently learning Information Security
+📫 Reach me @: lequanganh97@gmail.com
+⚡ Fun fact: I love to read manga and play games and SLEEP!
